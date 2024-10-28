@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/0xseo/.gradle/daemon/8.4/com.example.ch11_jetpack-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "/Users/0xseo/.gradle/daemon/8.4/com.example.ch11_jetpack-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/0xseo/.gradle/daemon/8.4/com.example.ch11_jetpack-mergeDebugResources-30:/layout/fragment_two.xml",
+        "source": "/Users/0xseo/.gradle/daemon/8.4/com.example.ch11_jetpack-main-33:/layout/fragment_two.xml"
+    },
+    {
+        "merged": "/Users/0xseo/.gradle/daemon/8.4/com.example.ch11_jetpack-mergeDebugResources-30:/layout/fragment_one.xml",
+        "source": "/Users/0xseo/.gradle/daemon/8.4/com.example.ch11_jetpack-main-33:/layout/fragment_one.xml"
+    },
+    {
+        "merged": "com.example.ch11_jetpack-mergeDebugResources-30:/layout/item_recyclerview.xml",
+        "source": "com.example.ch11_jetpack-main-33:/layout/item_recyclerview.xml"
+    },
+    {
+        "merged": "/Users/0xseo/.gradle/daemon/8.4/com.example.ch11_jetpack-mergeDebugResources-30:/layout/fragment_three.xml",
+        "source": "/Users/0xseo/.gradle/daemon/8.4/com.example.ch11_jetpack-main-33:/layout/fragment_three.xml"
+    },
+    {
+        "merged": "/Users/0xseo/.gradle/daemon/8.4/com.example.ch11_jetpack-mergeDebugResources-30:/layout/item_recyclerview.xml",
+        "source": "/Users/0xseo/.gradle/daemon/8.4/com.example.ch11_jetpack-main-33:/layout/item_recyclerview.xml"
+    }
+]

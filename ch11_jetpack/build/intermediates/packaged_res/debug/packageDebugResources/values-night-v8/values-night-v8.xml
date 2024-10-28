@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.AndroidLab" parent="Theme.Material3.DayNight.NoActionBar">
+    
+    
+  </style>
+    <style name="Theme.AndroidLab" parent="Base.Theme.AndroidLab"/>
+    <style name="ToolbarIconColor" parent="ThemeOverlay.AppCompat.ActionBar">
+    <item name="colorControlNormal">#FFFFFF</item>
+  </style>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Ch11_JetPack</string>
+    <string name="drawer_closed">Closed Drawer</string>
+    <string name="drawer_opened">Opened Drawer</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <style name="Base.Theme.AndroidLab" parent="Theme.Material3.DayNight.NoActionBar">
+    
+    
+
+
+  </style>
+    <style name="Theme.AndroidLab" parent="Base.Theme.AndroidLab"/>
+    <style name="ToolbarIconColor" parent="ThemeOverlay.AppCompat.ActionBar">
+    <item name="colorControlNormal">#FFFFFF</item>
+  </style>
+</resources>

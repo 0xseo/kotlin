@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable kbo
+id drawer
+id fragment_textView
+id item_data
+id item_root
+id menu_search
+id recyclerView
+id toolbar
+id viewpager
+layout activity_main
+layout fragment_one
+layout fragment_three
+layout fragment_two
+layout item_recyclerview
+menu menu_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string drawer_closed
+string drawer_opened
+string hello_blank_fragment
+style Base.Theme.AndroidLab
+style Theme.AndroidLab
+style ToolbarIconColor
